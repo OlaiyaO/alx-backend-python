@@ -3,6 +3,7 @@
 '''
 from typing import List
 
+
 def sum_list(input_list: List[float]) -> float:
     '''Calculates the total of a list of floating-point numbers.
     '''
